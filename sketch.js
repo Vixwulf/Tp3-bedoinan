@@ -46,7 +46,6 @@ function moverPiernasYBrazos() {
     pasos -= 30;
   }
 }
-// como hacer para poner cuando la tecla ESTA SIENDO PRESIONADA
 function keyPressed() {
   if (keyCode === LEFT_ARROW) {
     pasos -= 20;
