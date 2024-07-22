@@ -14,7 +14,7 @@ function preload() {
 
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(2000, 1414);
 }
 // podes mover todo el personaje a un esquina izquierda y que sea mas pequeño 
 function draw() {
